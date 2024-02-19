@@ -24,4 +24,4 @@ var newSize;
 ;
 let mySize = Size.Medium;
 console.log(mySize);
-//# sourceMappingURL=index.js.map
+//# sourceMappingURL=dataType.js.map
