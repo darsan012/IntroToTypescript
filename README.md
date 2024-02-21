@@ -17,3 +17,8 @@ Creating tscconfig.json
 tsc -- init
 ```
 
+## running the program
+``` bash
+tsc && node dist/filename.js
+```
+
